@@ -1,0 +1,10 @@
+
+
+Project Name : Life_Care_Pharmacy
+Project Code : fun-note-365
+Based on : www.netmeds.com
+
+Course : RCT-101
+Student : Shivam Kumar (fw19_0161)
+Buddy : Mohammad Sahil (fw20_0238)
+IA Manager : Hashmat Noorani 

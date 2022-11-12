@@ -1,3 +1,5 @@
+import Wellness from "./Wellness";
+
 export default function Navbar() {
   return (
     <>
@@ -54,9 +56,7 @@ export default function Navbar() {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">
-                  Wellness
-                </a>
+                <a class="nav-link fw-bold">Wellness</a>
               </li>
 
               <li className="nav-item">

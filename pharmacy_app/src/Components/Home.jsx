@@ -1,6 +1,10 @@
+import Footer from "./Footer";
+import Navbar from "./Navbar";
+
 export default function Home() {
   return (
     <>
+      <Navbar />
       <div
         id="carouselExampleControls"
         class="carousel slide"
@@ -581,11 +585,15 @@ export default function Home() {
           <p>Cold & Fever</p>
         </div>
       </div>
+
+      {/* Footer  */}
+      <Footer />
     </>
   );
 }
 
-/*
+{
+  /* 
 
 
 <div style={{display:"flex" m-auto width:"100%" }}>
@@ -596,3 +604,4 @@ export default function Home() {
 
 
 */
+}

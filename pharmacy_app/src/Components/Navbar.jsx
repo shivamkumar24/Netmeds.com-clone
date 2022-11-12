@@ -63,6 +63,7 @@ export default function Navbar() {
                   style={{
                     margin: "10px",
                     fontWeight: "bold",
+                    opacity: "0.7",
                     color: "whitesmoke",
                     textDecoration: "none",
                   }}
@@ -80,6 +81,7 @@ export default function Navbar() {
                   style={{
                     margin: "10px",
                     fontWeight: "bold",
+                    opacity: "0.7",
                     color: "whitesmoke",
                     textDecoration: "none",
                   }}

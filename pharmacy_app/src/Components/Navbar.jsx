@@ -1,3 +1,6 @@
+import Wellness from "./Wellness";
+import { Link } from "react-router-dom";
+
 export default function Navbar() {
   return (
     <>
@@ -54,15 +57,37 @@ export default function Navbar() {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link fw-bold" href="#">
+                {/* <a class="nav-link fw-bold">Wellness</a> */}
+                <Link
+                  to="/Wellness"
+                  style={{
+                    margin: "10px",
+                    fontWeight: "bold",
+                    opacity: "0.7",
+                    color: "whitesmoke",
+                    textDecoration: "none",
+                  }}
+                >
                   Wellness
-                </a>
+                </Link>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link fw-bold" href="#">
+                {/* <a className="nav-link fw-bold" href="#">
                   Lab Tests
-                </a>
+                </a> */}
+                <Link
+                  to="/LabTest"
+                  style={{
+                    margin: "10px",
+                    fontWeight: "bold",
+                    opacity: "0.7",
+                    color: "whitesmoke",
+                    textDecoration: "none",
+                  }}
+                >
+                  LabTest
+                </Link>
               </li>
 
               <li className="nav-item dropdown">

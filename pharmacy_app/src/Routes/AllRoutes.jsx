@@ -5,7 +5,7 @@ import { Wellness } from "../Components/Wellness";
 const AllRoutes = () => {
   return (
     <Routes>
-      <Route path="/" element={<Wellness />} />
+      <Route path="/Wellness" element={<Wellness />} />
       <Route path="/LabTest" element={<LabTest />} />
     </Routes>
   );

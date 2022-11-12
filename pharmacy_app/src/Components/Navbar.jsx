@@ -57,15 +57,35 @@ export default function Navbar() {
               </li>
 
               <li class="nav-item">
-                <a class="nav-link fw-bold">Wellness</a>
-                {/* <Link to="/">Wellness</Link> */}
+                {/* <a class="nav-link fw-bold">Wellness</a> */}
+                <Link
+                  to="/Wellness"
+                  style={{
+                    margin: "10px",
+                    fontWeight: "bold",
+                    color: "whitesmoke",
+                    textDecoration: "none",
+                  }}
+                >
+                  Wellness
+                </Link>
               </li>
 
               <li className="nav-item">
-                <a className="nav-link fw-bold" href="#">
+                {/* <a className="nav-link fw-bold" href="#">
                   Lab Tests
-                </a>
-                {/* <Link to="/LabTest">LabTest</Link> */}
+                </a> */}
+                <Link
+                  to="/LabTest"
+                  style={{
+                    margin: "10px",
+                    fontWeight: "bold",
+                    color: "whitesmoke",
+                    textDecoration: "none",
+                  }}
+                >
+                  LabTest
+                </Link>
               </li>
 
               <li className="nav-item dropdown">

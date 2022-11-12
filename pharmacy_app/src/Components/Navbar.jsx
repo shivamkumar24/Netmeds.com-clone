@@ -1,4 +1,5 @@
 import Wellness from "./Wellness";
+import { Link } from "react-router-dom";
 
 export default function Navbar() {
   return (
@@ -57,12 +58,14 @@ export default function Navbar() {
 
               <li class="nav-item">
                 <a class="nav-link fw-bold">Wellness</a>
+                {/* <Link to="/">Wellness</Link> */}
               </li>
 
               <li className="nav-item">
                 <a className="nav-link fw-bold" href="#">
                   Lab Tests
                 </a>
+                {/* <Link to="/LabTest">LabTest</Link> */}
               </li>
 
               <li className="nav-item dropdown">

@@ -1,4 +1,4 @@
-Project Name : Netmeds Clone ( https://www.netmeds.com )
+Project Name : LifeCare Pharmacy ( https://www.netmeds.com )
 
 Project Code : fun-note-365
 

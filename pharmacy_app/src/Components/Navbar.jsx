@@ -23,13 +23,14 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0 ms-4">
               <li className="nav-item">
-                <a
+                <Link
+                  to="/"
                   className="nav-link active fw-bold"
                   aria-current="page"
                   href="#"
                 >
                   Home
-                </a>
+                </Link>
               </li>
 
               <li className="nav-item dropdown">
@@ -58,16 +59,7 @@ export default function Navbar() {
 
               <li class="nav-item">
                 {/* <a class="nav-link fw-bold">Wellness</a> */}
-                <Link
-                  to="/Wellness"
-                  style={{
-                    margin: "10px",
-                    fontWeight: "bold",
-                    opacity: "0.7",
-                    color: "whitesmoke",
-                    textDecoration: "none",
-                  }}
-                >
+                <Link to="/Wellness" class="nav-link fw-bold">
                   Wellness
                 </Link>
               </li>
@@ -76,16 +68,7 @@ export default function Navbar() {
                 {/* <a className="nav-link fw-bold" href="#">
                   Lab Tests
                 </a> */}
-                <Link
-                  to="/LabTest"
-                  style={{
-                    margin: "10px",
-                    fontWeight: "bold",
-                    opacity: "0.7",
-                    color: "whitesmoke",
-                    textDecoration: "none",
-                  }}
-                >
+                <Link to="/LabTest" class="nav-link fw-bold">
                   LabTest
                 </Link>
               </li>

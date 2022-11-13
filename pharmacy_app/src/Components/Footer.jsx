@@ -89,7 +89,6 @@ export default function Footer() {
           <div class="col">Copyright© 2022. All Rights Reserved.</div>
         </div>
       </div>
-      <br></br>
     </>
   );
 }

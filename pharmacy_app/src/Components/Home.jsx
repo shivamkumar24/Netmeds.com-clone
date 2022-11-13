@@ -111,7 +111,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3107/thumb/dressing_1.jpg"
             alt="img1"
           />
-          <p>Dressing</p>
+          <p>
+            <b>Dressing</b>
+          </p>
         </div>
 
         <div
@@ -125,7 +127,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/501/thumb/family_nutrition_1.jpg"
             alt="img2"
           />
-          <p>Family Nutrition</p>
+          <p>
+            <b>Family Nutrition</b>
+          </p>
         </div>
 
         <div
@@ -139,7 +143,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3141/thumb/respiratory_supplies_1.jpg"
             alt="img3"
           />
-          <p>Respiratory Supplies</p>
+          <p>
+            <b>Respiratory Supplies</b>
+          </p>
         </div>
 
         <div
@@ -153,7 +159,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3758/thumb/lotions_creams_0.jpg"
             alt="img4"
           />
-          <p>Lotions & Creams</p>
+          <p>
+            <b>Lotions & Creams</b>
+          </p>
         </div>
 
         <div
@@ -167,7 +175,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/491/thumb/homeopathy_2.jpg"
             alt="img5"
           />
-          <p>Homeopathy</p>
+          <p>
+            <b>Homeopathy</b>
+          </p>
         </div>
       </div>
 
@@ -230,7 +240,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/himalaya.jpg?v=14"
             alt="img1"
           />
-          <p>Himalaya</p>
+          <p>
+            <b>Himalaya</b>
+          </p>
         </div>
 
         <div
@@ -244,7 +256,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/manforce.jpg?v=14"
             alt="img2"
           />
-          <p>Manforce</p>
+          <p>
+            <b>Manforce</b>
+          </p>
         </div>
 
         <div
@@ -258,7 +272,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/dabur.jpg?v=14"
             alt="img3"
           />
-          <p>Dabur</p>
+          <p>
+            <b>Dabur</b>
+          </p>
         </div>
 
         <div
@@ -272,7 +288,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/revital.jpg?v=14"
             alt="img4"
           />
-          <p>Revital</p>
+          <p>
+            <b>Revital</b>
+          </p>
         </div>
 
         <div
@@ -286,7 +304,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/brand/v2/msite/dr-morepen.jpg?v=14"
             alt="img5"
           />
-          <p>Dr.Morepen</p>
+          <p>
+            <b>Dr.Morepen</b>
+          </p>
         </div>
       </div>
 
@@ -304,7 +324,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3087/thumb/feminine_hygiene_1.jpg"
             alt="img1"
           />
-          <p>Feminine Hygiene</p>
+          <p>
+            <b>Feminine Hygiene</b>
+          </p>
         </div>
 
         <div
@@ -318,7 +340,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/525/thumb/body_care_1.jpg"
             alt="img2"
           />
-          <p>Body Care</p>
+          <p>
+            <b>Body Care</b>
+          </p>
         </div>
 
         <div
@@ -332,7 +356,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/676/thumb/orthopaedics_1.jpg"
             alt="img3"
           />
-          <p>Orthopaedics</p>
+          <p>
+            <b>Orthopaedics</b>
+          </p>
         </div>
 
         <div
@@ -346,7 +372,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3216/thumb/sports_supplements_1.jpg"
             alt="img4"
           />
-          <p>Sports Supplements</p>
+          <p>
+            <b>Sports Supplements</b>
+          </p>
         </div>
 
         <div
@@ -360,7 +388,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3061/thumb/immunity_booster_1.jpg"
             alt="img5"
           />
-          <p>Immunity Booster</p>
+          <p>
+            <b>Immunity Booster</b>
+          </p>
         </div>
       </div>
 
@@ -378,7 +408,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/525/thumb/body_care_1.jpg"
             alt="img1"
           />
-          <p>Body Care</p>
+          <p>
+            <b>Body Care</b>
+          </p>
         </div>
 
         <div
@@ -392,7 +424,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3758/thumb/lotions_creams_0.jpg"
             alt="img2"
           />
-          <p>Lotion & Creams</p>
+          <p>
+            <b>Lotion & Creams</b>
+          </p>
         </div>
 
         <div
@@ -406,7 +440,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/3934/thumb/skin_treatment_1.jpg"
             alt="img3"
           />
-          <p>Skin Treatment</p>
+          <p>
+            <b>Skin Treatment</b>
+          </p>
         </div>
 
         <div
@@ -420,7 +456,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3495/thumb/face_wash_cleansers_1.jpg"
             alt="img4"
           />
-          <p>Face Wash & Cleansers</p>
+          <p>
+            <b>Face Wash & Cleansers</b>
+          </p>
         </div>
 
         <div
@@ -434,7 +472,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3566/thumb/shower_gels_body_wash_2.jpg"
             alt="img5"
           />
-          <p>Shower Gel & Body Wash</p>
+          <p>
+            <b>Shower Gel & Body Wash</b>
+          </p>
         </div>
       </div>
 
@@ -452,7 +492,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3420/thumb/shaving.jpg?v=1"
             alt="img1"
           />
-          <p>Shaving</p>
+          <p>
+            <b>Shaving</b>
+          </p>
         </div>
 
         <div
@@ -466,7 +508,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3002/thumb/razors_cartridges_2.jpg?v=1"
             alt="img2"
           />
-          <p>Razors-Cartridge</p>
+          <p>
+            <b>Razors-Cartridge</b>
+          </p>
         </div>
 
         <div
@@ -480,7 +524,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3591/thumb/beard_oil_2.jpg?v=1"
             alt="img3"
           />
-          <p>Beard Oil</p>
+          <p>
+            <b>Beard Oil</b>
+          </p>
         </div>
 
         <div
@@ -494,7 +540,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3593/thumb/beard_wash_2.jpg?v=1"
             alt="img4"
           />
-          <p>Beard Wash</p>
+          <p>
+            <b>Beard Wash</b>
+          </p>
         </div>
 
         <div
@@ -508,7 +556,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/category/v1/3704/thumb/hair_gels_waxes_2.jpg?v=1"
             alt="img5"
           />
-          <p>Hair Gels Waxes</p>
+          <p>
+            <b>Hair Gels Waxes</b>
+          </p>
         </div>
       </div>
 
@@ -526,7 +576,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/lung-care.jpg?v=1"
             alt="img1"
           />
-          <p>Lung Care</p>
+          <p>
+            <b>Lung Care</b>
+          </p>
         </div>
 
         <div
@@ -540,7 +592,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/weight-care.jpg?v=1"
             alt="img2"
           />
-          <p>Weight Care</p>
+          <p>
+            <b>Weight Care</b>
+          </p>
         </div>
 
         <div
@@ -554,7 +608,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/women-s-care.jpg?v=1"
             alt="img3"
           />
-          <p>Women's Care</p>
+          <p>
+            <b>Women's Care</b>
+          </p>
         </div>
 
         <div
@@ -568,7 +624,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/bone-and-joint-pain.jpg?v=1"
             alt="img4"
           />
-          <p>Bone & Joint Pain</p>
+          <p>
+            <b>Bone And Joint Pain</b>
+          </p>
         </div>
 
         <div
@@ -582,7 +640,9 @@ export default function Home() {
             src="https://www.netmeds.com/images/cms/wysiwyg/category/v2/img/cold-and-fever.jpg?v=1"
             alt="img5"
           />
-          <p>Cold & Fever</p>
+          <p>
+            <b>Cold And Fever</b>
+          </p>
         </div>
       </div>
 

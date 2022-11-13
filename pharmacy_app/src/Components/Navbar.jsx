@@ -57,14 +57,14 @@ export default function Navbar() {
                 </ul>
               </li>
 
-              <li class="nav-item">
+              <li class="nav-item active fw-bold">
                 {/* <a class="nav-link fw-bold">Wellness</a> */}
                 <Link to="/Wellness" class="nav-link fw-bold">
                   Wellness
                 </Link>
               </li>
 
-              <li className="nav-item">
+              <li className="nav-item active fw-bold">
                 {/* <a className="nav-link fw-bold" href="#">
                   Lab Tests
                 </a> */}
